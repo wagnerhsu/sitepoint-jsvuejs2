@@ -2,7 +2,7 @@
   "name": "01",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "test": "echo \"Error: no test specified\" && exit 1"
